@@ -32,3 +32,10 @@ expand NFPA,National Fire Protection Association
 expand IACUC,Institutional Animal Care and Use Committee
 expand IBC,Institutional Biosafety Committee
 expand RMW,Regulated Medical Waste 
+expand PHI,Protected Health Information
+expand ePHI,electronic Protected Health Information
+expand FERPA,Family Educational Rights and Privacy Act
+expand FMLA,Family and Medical Leave Act
+expand OCR,Office for Civil Rights
+expand NPP,Notice of Privacy Practices
+expand BAA,Business Associate Agreement
