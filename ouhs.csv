@@ -1,41 +1,42 @@
+expand BAA,Business Associate Agreement
 expand bmsb,Basic Medical Sciences Building
 expand brc,Biomedical Research Center
+expand BSC,Biological Safety Cabinet
 expand bsc,Biomolecular Structure Core
-expand com,College of Medicine
-expand dsw,Data Science Workshop
-expand lbsf,Laboratory of Biomolecular Structure and Function
-expand mmu,Molecular Modeling Unit
-expand obsc,Oklahoma COBRE in Structural Biology
-expand ora,Office of Research Administration 
-expand gpibs,Graduate Program in Biomedical Sciences
-expand cobre,Center of Biomedical Research Excellence
-expand vpr,Vice President of Research
-expand pep,Protein Expression and Purification
-expand OSHA,Occupational Safety and Health Administration
-expand PEL,Permissible Exposure Limit
-expand TLV,Threshold Limit Value
-expand SOP,Standard Operating Procedures
-expand EHSO,Environmental Health and Safety Office
-expand CHP,Chemical Hygiene Plan
-expand SDS,Safety Data Sheet
-expand HCS,Hazard Communication Standard
 expand BSL-1,Biosafety Level 1
 expand BSL-2,Biosafety Level 2
-expand PPE,personal protective equipment
-expand BSC,Biological Safety Cabinet
-expand HEPA,High Efficiency Particulate Air-filtered
-expand PEL,Particulate Exposure Limit
-expand RSO,Radiation Safety Office
-expand GHS,Globally Harmonized System of Classification and Labelling of Chemicals
+expand CHP,Chemical Hygiene Plan
+expand cobre,Center of Biomedical Research Excellence
+expand com,College of Medicine
 expand DOT,Department of Transportation
-expand NFPA,National Fire Protection Association
-expand IACUC,Institutional Animal Care and Use Committee
-expand IBC,Institutional Biosafety Committee
-expand RMW,Regulated Medical Waste 
-expand PHI,Protected Health Information
+expand dsw,Data Science Workshop
+expand EHSO,Environmental Health and Safety Office
 expand ePHI,electronic Protected Health Information
 expand FERPA,Family Educational Rights and Privacy Act
 expand FMLA,Family and Medical Leave Act
-expand OCR,Office for Civil Rights
+expand GHS,Globally Harmonized System of Classification and Labelling of Chemicals
+expand gpibs,Graduate Program in Biomedical Sciences
+expand HCS,Hazard Communication Standard
+expand HEPA,High Efficiency Particulate Air-filtered
+expand hipaa,Health Insurance Portability and Accountability Act 
+expand IACUC,Institutional Animal Care and Use Committee
+expand IBC,Institutional Biosafety Committee
+expand lbsf,Laboratory of Biomolecular Structure and Function
+expand mmu,Molecular Modeling Unit
+expand NFPA,National Fire Protection Association
 expand NPP,Notice of Privacy Practices
-expand BAA,Business Associate Agreement
+expand ocsb,Oklahoma COBRE in Structural Biology
+expand OCR,Office for Civil Rights
+expand ora,Office of Research Administration 
+expand OSHA,Occupational Safety and Health Administration
+expand PEL,Particulate Exposure Limit
+expand PEL,Permissible Exposure Limit
+expand pep,Protein Expression and Purification
+expand PHI,Protected Health Information
+expand PPE,personal protective equipment
+expand RMW,Regulated Medical Waste 
+expand RSO,Radiation Safety Office
+expand SDS,Safety Data Sheet
+expand SOP,Standard Operating Procedures
+expand TLV,Threshold Limit Value
+expand vpr,Vice President of Research
