@@ -16,10 +16,10 @@ Ease the dictation of the prose about matters at OUHS.
 
 ## Update History
 
-|Version      | Changes                                                                                               | Date            |
-|:-----------:|:-----------------------------------------------------------------------------------------------------:|:---------------:|
+|Version      | Changes                                                                                               | Date     -       |
+|:-----------:|:-----------------------------------------------------------------------------------------------------:|:----------------:|
 | Version 0.2 | Added acronyms associated with laboratory safety                                                      | 2024 April 11    |
-
+| Version 0.3 | Sorted in alphabetiacal order. Added HIPAA related acronyms                                           | 2024 April 13    |
 
 ## Sources of funding
 
