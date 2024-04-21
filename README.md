@@ -17,7 +17,7 @@ For example, you say `expand OUHS` and `University of Oklahoma Health Sciences` 
 
 ## Update History
 
-|Version      | Changes                                                                                               | Date     -       |
+|Version      | Changes                                                                                               | Date             |
 |:-----------:|:-----------------------------------------------------------------------------------------------------:|:----------------:|
 | Version 0.2 | Added acronyms associated with laboratory safety                                                      | 2024 April 11    |
 | Version 0.3 | Sorted in alphabetical order. Added HIPAA related acronyms                                            | 2024 April 13    |
