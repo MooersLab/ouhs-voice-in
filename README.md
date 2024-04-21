@@ -3,23 +3,24 @@
 
 # ouhs-voice-in
 
-Voice-In dictation commands for jargon and acronyms associated with the University of Oklahoma Health Sciences (OUHS), formerly known as the University of Oklahoma Health Sciences Center (OUHSC).
-The campus of located a mile northeast of downtown Oklahoma City and about 25 miles north of the main campus in Norman, Oklahoma.
+Voice In Plus dictation commands for jargon and acronyms associated with the University of Oklahoma Health Sciences (OUHS), formerly known as the University of Oklahoma Health Sciences Center (OUHSC).
+The campus is located a mile northeast of downtown Oklahoma City and about 25 miles north of the main campus in Norman, Oklahoma.
 It has seven health-related colleges.
 
 ## Purpose:
-Ease the dictation of the prose about matters at OUHS.
+To ease the dictation of the prose about matters at OUHS.
 
 ## Features:
 
-- **expand** command inserts the expansion of acronyms.
+The command **expand** is the command that inserts the expansion of acronyms.
+For example, you say `expand OUHS` and `University of Oklahoma Health Sciences` is returned.
 
 ## Update History
 
 |Version      | Changes                                                                                               | Date     -       |
 |:-----------:|:-----------------------------------------------------------------------------------------------------:|:----------------:|
 | Version 0.2 | Added acronyms associated with laboratory safety                                                      | 2024 April 11    |
-| Version 0.3 | Sorted in alphabetiacal order. Added HIPAA related acronyms                                           | 2024 April 13    |
+| Version 0.3 | Sorted in alphabetical order. Added HIPAA related acronyms                                            | 2024 April 13    |
 
 ## Sources of funding
 
