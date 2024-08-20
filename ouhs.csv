@@ -40,3 +40,6 @@ expand SDS,Safety Data Sheet
 expand SOP,Standard Operating Procedures
 expand TLV,Threshold Limit Value
 expand vpr,Vice President of Research
+expand UEI,Unique Entity Identifier
+print OUHSC UEI,GY8NMUZQXVS7
+
